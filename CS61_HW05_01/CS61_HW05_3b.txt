@@ -1,0 +1,762 @@
+Student1
+Office Hours Attended: 36
+6 Astrology
+7 Astrology
+9 Mathematics
+10 Programming
+11 Civics
+15 Biology
+17 Algebra
+19 Civics
+23 Biology
+25 Neanderthal
+26 Civics
+29 Biology
+32 Writing
+33 Programming
+34 Research
+35 Algebra
+36 Algebra
+37 Calculus
+39 Programming
+41 Civics
+42 Astrology
+43 Neanderthal
+44 Spanish
+50 Writing
+55 Astronomy
+57 Reading
+60 Neanderthal
+64 History
+66 Reading
+69 Astronomy
+74 Mathematics
+77 Writing
+80 Programming
+87 Reading
+90 Physics
+99 History
+
+
+Student10
+Office Hours Attended: 37
+1 Civics
+2 Art
+7 Stuff
+9 Biology
+12 Neanderthal
+17 Programming
+19 Writing
+20 Calculus
+22 Reading
+29 Physics
+33 Stuff
+38 Astrology
+40 Astrology
+41 Stuff
+43 Writing
+46 Reading
+47 Astronomy
+50 Art
+52 Reading
+56 History
+57 Astrology
+60 Neanderthal
+61 Civics
+64 Biology
+65 Programming
+67 Photography
+69 Biology
+73 Astronomy
+74 Biology
+79 Calculus
+80 Writing
+86 Writing
+87 Spanish
+90 Astronomy
+94 Reading
+98 Mythology
+99 Algebra
+
+
+Student11
+Office Hours Attended: 33
+1 Mythology
+2 Astrology
+8 Astrology
+11 Writing
+14 Mathematics
+19 Calculus
+20 Reading
+29 Photography
+33 History
+34 Algebra
+36 Astronomy
+38 Biology
+40 Research
+41 Photography
+43 Algebra
+44 Calculus
+45 History
+47 Mathematics
+49 Mythology
+50 Astronomy
+57 Astronomy
+64 Mathematics
+66 Biology
+73 Reading
+77 Neanderthal
+81 Stuff
+82 Mythology
+83 Civics
+87 Mathematics
+90 Astrology
+92 Photography
+98 Stuff
+99 Physics
+
+
+Student12
+Office Hours Attended: 26
+2 Research
+10 Civics
+16 Programming
+17 Art
+19 Physics
+20 History
+22 Spanish
+26 History
+29 Writing
+33 Algebra
+41 Photography
+43 Programming
+46 Neanderthal
+50 Research
+57 Research
+58 Programming
+59 Reading
+64 Mathematics
+67 Astronomy
+73 Neanderthal
+77 Reading
+85 Civics
+90 History
+93 Algebra
+98 Astronomy
+99 History
+
+
+Student13
+Office Hours Attended: 40
+2 Writing
+3 Stuff
+6 Calculus
+7 Spanish
+8 Stuff
+12 Photography
+14 Algebra
+15 Research
+16 Civics
+19 Art
+20 Research
+21 Art
+22 Algebra
+25 Programming
+28 Mythology
+29 Stuff
+31 Art
+33 Calculus
+34 Civics
+36 Neanderthal
+41 Biology
+43 Mathematics
+47 Algebra
+50 Art
+51 Stuff
+57 Neanderthal
+60 Spanish
+64 Stuff
+68 Algebra
+76 Stuff
+77 Civics
+79 Civics
+81 Mythology
+83 Mythology
+85 Programming
+87 Mythology
+89 Reading
+90 Astrology
+98 Calculus
+99 Mythology
+
+
+Student14
+Office Hours Attended: 33
+10 Astrology
+19 Mathematics
+22 Algebra
+25 Biology
+26 Spanish
+28 Algebra
+29 Mythology
+37 Photography
+38 Spanish
+41 Programming
+43 Research
+49 Biology
+50 Physics
+55 Photography
+57 Algebra
+59 Photography
+60 Astronomy
+61 Stuff
+62 Photography
+64 Physics
+67 History
+68 Programming
+73 Stuff
+75 History
+76 Writing
+77 Calculus
+78 Writing
+83 Mathematics
+89 Mythology
+90 Writing
+92 Mythology
+98 Neanderthal
+99 Writing
+
+
+Student15
+Office Hours Attended: 30
+9 Programming
+11 Mythology
+12 Civics
+15 Calculus
+17 Art
+19 Reading
+20 Civics
+26 History
+29 Algebra
+33 Astrology
+34 History
+38 Reading
+39 Astrology
+43 Research
+46 Photography
+50 Art
+57 Algebra
+60 Physics
+64 Astrology
+69 Photography
+72 Art
+73 Writing
+74 Stuff
+76 Astrology
+79 Reading
+80 Calculus
+83 Research
+84 Research
+90 Astronomy
+98 History
+
+
+Student16
+Office Hours Attended: 41
+1 Physics
+6 Programming
+14 Algebra
+16 Calculus
+17 Mathematics
+19 Neanderthal
+20 Astrology
+22 Writing
+23 Mythology
+25 Neanderthal
+26 Mythology
+28 Photography
+29 Biology
+39 Neanderthal
+40 Calculus
+41 Civics
+43 Biology
+44 Research
+48 Reading
+50 Spanish
+52 Photography
+57 Research
+58 Algebra
+64 Research
+66 Mathematics
+67 Stuff
+69 Civics
+70 Spanish
+73 Physics
+74 Research
+78 Mathematics
+79 Spanish
+81 Mythology
+83 History
+84 Stuff
+90 Physics
+92 Astrology
+94 Biology
+95 Civics
+96 Neanderthal
+100 Reading
+
+
+Student17
+Office Hours Attended: 35
+10 Biology
+14 Biology
+15 Calculus
+18 Mathematics
+19 Astronomy
+22 Mathematics
+23 Research
+25 Civics
+30 Reading
+33 Physics
+34 Civics
+41 Calculus
+43 Reading
+46 Mythology
+49 Art
+50 Stuff
+52 Photography
+55 Spanish
+57 Photography
+58 Art
+60 Writing
+62 Physics
+64 Stuff
+70 Civics
+71 Mythology
+72 Algebra
+74 Algebra
+79 Art
+86 Astronomy
+87 Biology
+90 Calculus
+91 Spanish
+93 Photography
+99 Neanderthal
+100 Reading
+
+
+Student18
+Office Hours Attended: 29
+3 Neanderthal
+7 Reading
+10 Biology
+12 Calculus
+14 Algebra
+15 Astrology
+19 Reading
+26 History
+29 Spanish
+33 Calculus
+38 Programming
+39 Art
+41 Physics
+42 Photography
+43 Mathematics
+46 Writing
+50 Astrology
+57 Biology
+61 Research
+64 Astrology
+66 Reading
+68 Stuff
+73 Reading
+79 Photography
+80 Photography
+83 Astrology
+87 Physics
+92 Astrology
+98 Civics
+
+
+Student19
+Office Hours Attended: 30
+7 Mythology
+9 Programming
+13 Astrology
+15 Astronomy
+19 Programming
+22 History
+29 Physics
+31 Calculus
+33 Astronomy
+38 Photography
+40 Reading
+41 Astrology
+43 Algebra
+50 Mythology
+53 Astronomy
+55 Reading
+57 Biology
+61 Civics
+64 Reading
+66 Research
+70 Physics
+73 Physics
+74 Mythology
+76 Physics
+80 Astronomy
+87 Programming
+90 Photography
+98 Art
+99 Biology
+100 Civics
+
+
+Student2
+Office Hours Attended: 32
+5 Physics
+12 Stuff
+14 Calculus
+17 Photography
+19 Biology
+21 Algebra
+22 Biology
+25 Civics
+26 History
+28 Neanderthal
+30 Algebra
+38 Reading
+40 History
+41 Mythology
+42 Mythology
+43 Research
+45 Photography
+47 Mathematics
+50 Photography
+57 Mythology
+60 Biology
+62 Art
+64 Reading
+69 Research
+70 Research
+77 Programming
+83 Mythology
+84 Calculus
+87 Reading
+90 Programming
+96 Astrology
+98 Astrology
+
+
+Student20
+Office Hours Attended: 35
+8 Physics
+12 Biology
+16 Algebra
+17 Astrology
+19 Stuff
+22 Mathematics
+24 Photography
+25 Algebra
+26 Astronomy
+27 Photography
+29 Writing
+34 Research
+36 Spanish
+38 Astronomy
+39 Research
+41 History
+43 Algebra
+48 Astrology
+50 Mythology
+55 Programming
+57 Mathematics
+60 Calculus
+63 Programming
+64 Programming
+66 Art
+67 Astronomy
+80 Art
+81 Writing
+85 Stuff
+87 Art
+90 Algebra
+92 Photography
+95 Algebra
+98 Physics
+99 Astronomy
+
+
+Student3
+Office Hours Attended: 30
+1 Photography
+2 Algebra
+5 Art
+8 Mathematics
+9 Civics
+14 Biology
+19 Civics
+22 Photography
+23 Research
+26 Writing
+27 Physics
+28 Calculus
+31 Civics
+33 Mythology
+39 Neanderthal
+40 Mythology
+43 Civics
+50 Mathematics
+57 Stuff
+58 Astronomy
+60 Reading
+64 Biology
+66 Programming
+70 Programming
+71 Photography
+73 Programming
+85 Stuff
+89 Calculus
+90 Neanderthal
+98 Research
+
+
+Student4
+Office Hours Attended: 32
+5 Astrology
+14 Neanderthal
+16 Physics
+17 Calculus
+19 Writing
+20 Physics
+22 Biology
+25 Calculus
+26 Neanderthal
+29 Programming
+35 Mathematics
+40 Astrology
+41 Physics
+43 Stuff
+47 Mathematics
+49 Astronomy
+50 Photography
+57 Astrology
+59 Mythology
+60 Biology
+64 Neanderthal
+72 Calculus
+74 Writing
+79 Algebra
+80 Astronomy
+81 Spanish
+83 Neanderthal
+89 Spanish
+90 Stuff
+92 Art
+95 Stuff
+99 Civics
+
+
+Student5
+Office Hours Attended: 40
+7 Photography
+14 Spanish
+17 Research
+19 Stuff
+20 Biology
+22 Calculus
+25 Physics
+29 Writing
+31 Reading
+33 Programming
+37 Biology
+38 Neanderthal
+39 Art
+40 Civics
+41 Spanish
+43 History
+44 Photography
+50 Civics
+52 Biology
+57 Civics
+58 Biology
+60 Photography
+62 Biology
+64 Stuff
+66 Astrology
+67 Programming
+74 Physics
+76 Biology
+77 Neanderthal
+79 Astronomy
+81 Astrology
+83 Photography
+85 Research
+86 Spanish
+87 Calculus
+90 Mathematics
+92 Spanish
+96 Astrology
+98 Spanish
+100 Neanderthal
+
+
+Student6
+Office Hours Attended: 40
+1 Spanish
+3 Mathematics
+4 Mythology
+7 Programming
+11 Mathematics
+12 Writing
+14 Calculus
+16 Mathematics
+17 Algebra
+19 Biology
+23 Astronomy
+24 Physics
+25 Astrology
+30 Reading
+31 Photography
+32 Mythology
+33 Astronomy
+34 Mathematics
+41 Programming
+43 Photography
+44 Mathematics
+50 Biology
+57 Astronomy
+58 Programming
+60 Calculus
+62 Astronomy
+64 Neanderthal
+65 Civics
+66 Astronomy
+68 Reading
+77 Civics
+78 Civics
+81 Programming
+85 Reading
+87 Mathematics
+88 Astrology
+89 Programming
+90 Mathematics
+98 Civics
+99 Algebra
+
+
+Student7
+Office Hours Attended: 33
+7 Astronomy
+10 Astrology
+11 Astrology
+14 Astronomy
+17 Astrology
+19 Mathematics
+20 Programming
+22 Algebra
+24 History
+29 Algebra
+31 Photography
+32 Stuff
+33 Civics
+38 Mythology
+42 Programming
+43 History
+45 Reading
+50 Art
+56 Mythology
+57 Writing
+59 Neanderthal
+60 History
+64 Mathematics
+67 Astrology
+70 Neanderthal
+73 Mythology
+74 Algebra
+77 Writing
+81 Physics
+83 Mythology
+90 Mathematics
+99 Programming
+100 Physics
+
+
+Student8
+Office Hours Attended: 34
+6 Mathematics
+10 Astronomy
+14 Physics
+16 Writing
+18 Astrology
+19 Astronomy
+20 Physics
+26 Calculus
+29 Programming
+30 Mythology
+31 Physics
+36 Civics
+40 Stuff
+41 Stuff
+43 Art
+44 Astrology
+45 History
+48 Calculus
+50 Research
+53 Photography
+55 Biology
+57 History
+58 Stuff
+64 Physics
+68 Astronomy
+70 Art
+71 Physics
+73 Research
+77 Art
+84 History
+85 Spanish
+92 Biology
+93 Astronomy
+98 Spanish
+
+
+Student9
+Office Hours Attended: 36
+10 Biology
+12 Astrology
+14 Reading
+15 Neanderthal
+16 Spanish
+17 Neanderthal
+18 Writing
+19 Calculus
+22 Mythology
+26 Art
+28 Photography
+29 Calculus
+33 Civics
+41 Spanish
+43 Photography
+47 Physics
+50 Art
+52 Neanderthal
+55 Civics
+56 Biology
+57 Mythology
+59 Writing
+62 Physics
+63 Biology
+70 Physics
+73 Neanderthal
+74 Neanderthal
+79 Mythology
+80 Mathematics
+85 Programming
+89 Physics
+90 Mythology
+94 Mythology
+96 Algebra
+98 Algebra
+99 Mathematics
+
+
